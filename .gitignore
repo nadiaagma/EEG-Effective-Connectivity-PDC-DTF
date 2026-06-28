@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ======================================================
+# EEG Effective Connectivity Project
+# ======================================================
+
+# Analysis outputs (generated automatically)
+outputs/
+
+# Raw EEG dataset (download separately)
+dataset/S*/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
